@@ -1,0 +1,84 @@
+/* ----------------- min Width 641 Max Width 1024px ------------------ */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+
+/* Header */
+/* #header 		{
+	position:fixed !important;
+	padding-top:0em !important;
+	background:#000;
+	.row{
+		.header_bg{
+			background: url(../images/header_bg.png);
+			margin: 0 0.9375rem;
+		}
+	}
+	h1#logo{
+ 		background:url(../images/dream-travels-sri-lanka-logo-tablet.png) !important;
+ 		width: 198px !important;
+ 		height: 50px !important;
+ 		margin:0.5em 0em 0.4em !important;
+	}
+	nav#main_navigation{
+		margin-right: 0px !important;
+		ul{
+			text-align: right;
+			&:after{
+				content: "";
+				display: block;
+				clear: both;
+			}
+			li{
+				display: inline-block;
+				line-height: 1;
+				a{
+					@include transition(color 0.5s ease);
+					font-size: 0.8em;
+					color: #fff;
+					text-transform: uppercase;
+					padding:32px 0px 28px 15px !important;
+					display: block;
+					font-weight: 300;
+					&:hover{
+						color: #B3CD00;
+					}
+				}
+				&.active{
+					a{
+						color: #B3CD00;
+					}
+				}
+			}
+		}
+	}
+
+} */
+
+/* #slider  		{
+	margin-top:73px;
+} */
+
+
+
+
+
+/* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+} 
+
+
+
+@media only screen and (max-width: 52.5em) { 
+
+/* header{
+	nav#main_navigation{
+		display: none !important;
+	}
+	nav#mobile_navigation{
+		display: block !important;
+	}	
+	#nav-trigger {
+		display:block !important;
+	}
+} */
+	
+/*  max-width 840px, use when QAing tablet-only issues */
+}

@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700,600italic,700italic);
+
+* 			{margin: 0; padding: 0;}
+
+html 		{font-size: 20px}
+body 		{text-align: center; line-height: 1; font-family: 'Open Sans', sans-serif; }
+
+h1 			{background: rgba(255,255,255,0.6); padding: 5px 0; font-family: 'Oswald', sans-serif; font-size: 4rem; color: #542f64;z-index: 10;position: relative; text-shadow:0 0px 1px rgba(0,0,0,0.4) inset, 0 0px 10px rgba(255,255,255,1); margin:-10rem 0 0.5rem}
+h2 			{background: rgba(255,255,255,0.6); padding: 5px 0; text-transform: uppercase; font-family: 'Oswald', sans-serif;z-index: 10;position: relative; font-size: 1.5rem; color: #111; margin-bottom: 0.5rem;}
+a 			{text-decoration: none; outline: none; }
+img 		{position: relative; max-width: 100%; height: auto; z-index: 0; margin-top: 1rem}
+p 			{background: rgba(255,255,255,0.2); padding: 2px 0; z-index: 10;position: relative; color: #000;}
+
+#contact_info 	{width: 100%; margin: 0 auto; margin-top: 2rem; z-index: 10;position: relative;}
+#contact_info:after 	{content: ""; display: block; clear: both;}
+h3 				{color: #ef4c91; line-height: 1.4;  float: left; width: 45%; padding-right: 4%; text-align: right; text-transform: uppercase; font-family: 'Oswald', sans-serif; font-size: 1.5rem; }
+#details 		{float: left; width: 30%; text-align: left; padding-left: 2rem;  border-left: 2px solid #ef4c91;}
+#details p 		{margin-bottom: 0.6rem; line-height: 1.4; color: #111;}
+

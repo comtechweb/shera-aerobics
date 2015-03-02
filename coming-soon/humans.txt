@@ -1,0 +1,23 @@
+/* humanstxt.org */
+# The humans responsible & technology colophon
+
+/* SITE TECHNOLOGY */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Sublime, Git, Sass
+
+/* WE */                         
+Company : Comtech Web Solutions                         
+Site: http://www.comtechlanka.com/                                                   
+Location: Yakkala, Sri lanka.
+
+/* SITE */  
+Site Name : Shera Aerobics                        
+Last update: 2014/08/27                         
+Standards: HTML5, CSS3                         
+Components: Modernizr, jQuery, jQuery, Orbit, Reveal                    
+Software: Sublime, Ruby, Sass
+
+
+
+

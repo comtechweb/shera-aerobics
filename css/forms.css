@@ -1,0 +1,44 @@
+
+.error {
+    color: red;
+}
+label.error {
+    color: red;
+    display: block !important;
+}
+textarea.error {
+    color: red;
+    display: block !important;
+}
+.formMessage {
+    display: none; 
+}
+
+.retryFormSubmit {
+    cursor: pointer;
+    color: #096; 
+}
+
+input.error {
+    border: #ff0000 solid 1px; 
+}
+textarea.error {
+    border: #ff0000 solid 1px; 
+}
+#formError, #formOk, #formPleaseWait {
+    /*width: 410px;*/
+    padding-bottom: 20px;
+    margin:0 auto; 
+}
+#formError h2, #formOk h2, #formPleaseWait h2 {
+    padding: 0em !important;
+    font-size: 1em;
+}
+#formError p, #formOk p, #formPleaseWait p {
+    text-align: center !important; 
+    line-height: 1 !important;
+}
+#formError p a, #formOk p a, #formPleaseWait p a{
+    color:;
+}
+
